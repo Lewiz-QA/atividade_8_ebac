@@ -35,7 +35,6 @@
 
             Exemplos:
             | email                                 |
-            | "teste"                               |
             | "teste@"                              |
             | "teste@.com"                          |
             | "teste@gmail"                         |
