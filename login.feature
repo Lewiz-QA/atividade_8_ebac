@@ -7,7 +7,7 @@
 
 
             Contexto:
-            Dado que acesse a página de login da EBAC-SHOP
+            Dado que acessei a página de login da EBAC-SHOP
 
             @Criterio_Aceitacao_01
             # Ao inserir dados válidos deve ser direcionado para a tela de checkout
