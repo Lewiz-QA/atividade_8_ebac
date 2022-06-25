@@ -55,5 +55,3 @@
             Quando eu informar um tamanho, cor e quantidade diferentes do padrão
             E clicar no botão "Limpar"
             Então espero que o tamanho, a cor e a quantidade voltem aos seus valores iniciais
-
-
